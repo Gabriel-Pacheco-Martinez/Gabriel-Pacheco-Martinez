@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently undergoing a Masters degree in Computer Engineering in the US.
-- I'm currently working on Research related to cybersecurity.
+I'm a software engineer from Bolivia. I have experience in web security, web development, and low-level programming.
+
+### What I am working on
+- Research to analyze HTTP headers across websites using heuristics and ML to identify potential tracking and privacy concerns.
+- A masters in Computer Engineering with a high focus in ML and software development.
