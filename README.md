@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Gabriel 👋
 
 <!--
 **Gabriel-Pacheco-Martinez/Gabriel-Pacheco-Martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently undergoing a Masters degree in Computer Engineering in the US.
+- I'm currently working on Research related to cybersecurity.
