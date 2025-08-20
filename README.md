@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I'm a software engineer from Bolivia. I have experience in web security, web development, and low-level programming.
 
 ### What I am working on
-- Research to analyze HTTP headers across websites using heuristics and ML to identify potential tracking and privacy concerns.
-- A masters in Computer Engineering with a high focus in ML and software development.
+- 🔍 Research to analyze HTTP headers across websites using heuristics and ML to identify potential tracking and privacy concerns.
+- 🎓 A masters in Computer Engineering with a high focus in ML and software development.
