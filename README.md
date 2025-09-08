@@ -23,13 +23,13 @@ I have professional experience in **web security**, **full-stack development**, 
 ---
 
 ### 🚀 What I’m Working On  
-- 🔍 Research in cybersecurity analyzing network traffic, using Selenium for automated data extraction.
+- 🔍 Research in **cybersecurity** analyzing network traffic, using Selenium for automated data extraction.
 ---
 
 ### 🧠 Knowledge & Skills  
 - 🤖 **Machine Learning**: Solid foundation through graduate coursework (Computer Vision, Trustworthy ML, Advanced ML, Applied ML).  
 - 🖥️ **Low-Level Programming**: Assembly for PIC16F microcontrollers.  
-- 🔌 **Digital & Logic Design**: FPGA development and electronic components.  
+- 🔌 **Digital & Logic Design**: CPLD development and electronic components.  
 - 🔧 **Embedded Systems**: Programming STM32, Raspberry Pi, and Arduino.  
 - 📊 **Data Visualization**: Experience with R for analysis and visualization.  
 
